@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 ## About me
 * I'm Statistic
 * My specialty is programming in R and Python
+* 
+## You can contact me
+* andrespertuzorozco@gmail.com
 * ![Static Badge](https://img.shields.io/badge/Instagram-white?style=plastic&logo=Instagram&link=https%3A%2F%2Fwww.instagram.com%2Fpertuzandresfelipe%2F)
